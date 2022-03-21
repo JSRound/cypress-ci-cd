@@ -1,11 +1,11 @@
 {
-    "root": true,
+	"root": true,
 	"plugins": ["cypress"],
 	"env": {
 		"cypress/globals": true
 	},
 	"extends": ["plugin:cypress/recommended"],
-    "rules":{
-        "cypress/no-unnecessary-waiting": 0
-    }
+	"rules": {
+		"cypress/no-unnecessary-waiting": 0
+	}
 }
