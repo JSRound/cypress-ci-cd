@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/JSRound/cypress-ci-cd/tree/main.svg?style=svg)](https://circleci.com/gh/JSRound/cypress-ci-cd/tree/main)
 # cypress-ci-cd
 PoC of CI/CD with Cypress
 
